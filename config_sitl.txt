@@ -1,0 +1,9 @@
+sitl
+tcp:IP:PORT
+tcpin:IP:PORT
+
+
+
+
+#config template
+#IP, PORT should be replaced

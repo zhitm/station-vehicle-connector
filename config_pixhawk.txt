@@ -1,0 +1,9 @@
+px
+/dev/ttyUSB0
+udpout:IP:PORT
+57600
+
+
+
+#config template
+#IP, PORT should be replaced
